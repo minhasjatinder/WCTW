@@ -33,7 +33,7 @@ def main():
     
         
         html_temp = """<h1>📈Consumption Analysis📈</h1>
-        <script type='module' src='https://prod-apnortheast-a.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-apnortheast-a.online.tableau.com/t/codedivas/views/dashboard/Dashboard3' width='1200' height='840' hide-tabs toolbar='bottom' ></tableau-viz>
+        <script type='module' src='https://prod-apnortheast-a.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-apnortheast-a.online.tableau.com/t/codedivas/views/dashboard/Dashboard3' width='1300' height='840' hide-tabs toolbar='bottom' ></tableau-viz>
         <br/>
         <h1 margin-left = '50px'>📈Predictions About Future Electricity Consumption 📈</h1>
         <br/>

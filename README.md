@@ -20,7 +20,9 @@
 
 ### Code for detecting humans and controlling the appliances accordingly. 
 Using OpenCv (OpenCV is a library of programming functions mainly for real-time computer vision) . [OpenCv](https://g.co/kgs/mrAQVM) for the detection of a human body and writing a logic to turn on and off the appliances accordingly.  
-**SEE CODE** [here](README.md)
+
+
+## **SEE CODE** [here](https://github.com/minhasjatinder/WCTW/tree/main/Automation%20of%20Appliances)
 
 ### 2. The second part is the Dashboard created which shows the consumption trends so that we can analyse and work on the areas where there is more electricity wastage.
 

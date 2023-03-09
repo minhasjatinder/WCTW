@@ -1,8 +1,12 @@
 # **ServiceNow Women Code to Win**
-## Problem Statement : 
-#### How do we use technology to help reduce energy consumption in transportation, buildings, homes, industrial complexes, supply chains and so on? How do we use AI, data modeling, and cloud technologies which can predict environmental issues based on current data sets and patterns? 
+## Problem Statement : Future of Sustainable Environment
 ### **Project : IOT based Electricity Consumption Analysis and Automation of Appliances**
-
+#### **Description About the Project** : 
+The basic idea is to reduce the electricity consumption by automating the electrical appliances 
+The prototye functions as follows :
+1. Whenever a person is detected in room connected appliances automatically turn on . 
+2. Whenever no person is detected in the room , appliances are not turned off immediately , rather a fixed number of reminders are sent on the connected user's phone to turn off the appliances but if the reminder limit exceeds and still the person is not detected , then the appliances will be turned off automatically . 
+3. The data related to consumption trends of the electrical appliances is visualised using a dashboard and the dashboard is integrated into a website.
 ### GOAL 1 . We have created a hardware prototype for the Automation of Appliances to reduce the electricity wastage when appliances are left turned on by mistake .
 ### HARDWARE SETUP :
 1 . Connecting the appliances to the program .
@@ -20,8 +24,7 @@
 
 
 ### Code for detecting humans and controlling the appliances accordingly. 
-Using OpenCv (OpenCV is a library of programming functions mainly for real-time computer vision) . [OpenCv](https://g.co/kgs/mrAQVM) for the detection of a human body and writing a logic to turn on and off the appliances accordingly.  
-## Demo Video : 
+Using OpenCv (OpenCV is a library of programming functions mainly for real-time computer vision) . [OpenCv](https://g.co/kgs/mrAQVM) for the detection of a human body and writing a logic to turn on and off the appliances accordingly. 
 
 
 ## **SEE CODE** [here](https://github.com/minhasjatinder/WCTW/tree/main/Automation%20of%20Appliances)
